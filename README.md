@@ -47,7 +47,7 @@ Encoded categorical features:
 
 - Interpreted results to extract meaningful business insights.
 
-📊 Results & Insights
+ **Results & Insights**
 
 - The model effectively identifies customers who are at high risk of leaving the bank.
 
